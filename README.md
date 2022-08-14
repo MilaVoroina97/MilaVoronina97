@@ -7,7 +7,8 @@
 - 📫 My main goals after learning is:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Become+a+professional+python+developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Take+part+in+many+developing+project%2C+including+international+projects)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com font=Fira+Code&pause=1000&width=435&lines=Take+part+in+many+developing+project%2C+including+international+projects)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Create+own+web-site)](https://git.io/typing-svg)
