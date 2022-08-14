@@ -6,7 +6,7 @@
 - 🌍 I'm also interested in web-design and motion-design
 - 📫 My main goals after learning is:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Become+a+professional+python+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Become+a+python+developer)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Take+part+in+many+developing+project%2C+including+international+projects)](https://git.io/typing-svg)
@@ -24,12 +24,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Achive+my+own+dream+to+become+a+professtional+developer+and+data+scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Take+part+in+projects+with+artificial+intelligence)](https://git.io/typing-svg)
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Start+to+take+part+in+projects+with+artificial+intelligence)](https://git.io/typing-svg)
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Create+my+own+small+robot+to+clean+my+flat%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Create+my+robot+to+clean+my+flat)](https://git.io/typing-svg)
